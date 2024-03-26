@@ -6,7 +6,6 @@
 
 class Solution:
     def reorderList(self, head: Optional[ListNode]) -> None:
-        curr = head
         n1 = head
         n2 = head
         result = []
